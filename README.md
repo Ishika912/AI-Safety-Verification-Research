@@ -14,7 +14,7 @@ The literature-based work organizes correspondence into five layers: **artifact,
 
 ### Research paper
 
-[Read the complete paper (PDF)](paper/How_Strong_Is_the_Assurance_Ishika_Titar.pdf)
+[Read the complete paper (PDF)](Ishika_Titar_AI_Safety_Research_Paper_Final_Review%20(2).pdf)
 
 ### Supporting technical demonstration
 
