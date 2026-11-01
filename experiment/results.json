@@ -1,0 +1,27 @@
+{
+  "dataset": "synthetic sklearn.make_classification",
+  "test_samples": 450,
+  "same_trained_model": true,
+  "results": [
+    {
+      "threshold": 0.5,
+      "accuracy": 0.8311,
+      "precision": 0.7944,
+      "recall": 0.6115,
+      "true_positive": 85,
+      "false_positive": 22,
+      "true_negative": 289,
+      "false_negative": 54
+    },
+    {
+      "threshold": 0.8,
+      "accuracy": 0.7733,
+      "precision": 0.9744,
+      "recall": 0.2734,
+      "true_positive": 38,
+      "false_positive": 1,
+      "true_negative": 310,
+      "false_negative": 101
+    }
+  ]
+}
